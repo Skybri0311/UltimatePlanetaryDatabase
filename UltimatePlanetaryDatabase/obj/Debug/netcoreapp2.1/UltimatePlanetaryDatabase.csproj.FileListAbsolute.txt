@@ -1,0 +1,14 @@
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\bin\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.deps.json
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\bin\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.runtimeconfig.json
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\bin\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\bin\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.dll
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.RazorAssemblyInfo.cache
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.RazorAssemblyInfo.cs
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.AssemblyInfo.cs
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.RazorTargetAssemblyInfo.cache
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\bin\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.pdb
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.dll
+C:\Users\Brian\source\repos\UltimatePlanetaryDatabase\UltimatePlanetaryDatabase\obj\Debug\netcoreapp2.1\UltimatePlanetaryDatabase.pdb
