@@ -39,3 +39,4 @@ in command prompt
 5. set the remote " git remote -v "
 6. to push the changes in your local repostery to github " git push origin master"
 7. to find remote address 'git remote -v'
+8. make sure the remote path is set in Visual Studio

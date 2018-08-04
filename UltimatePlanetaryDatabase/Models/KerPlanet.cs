@@ -10,6 +10,14 @@ namespace UltimatePlanetaryDatabase.Models
         public string Name { get; set; }
         public string Color { get; set; }
         public string PlanetComp { get; set; }
+        public string SemiMajorAxis { get; set; }
+        public string Apoapsis { get; set; }
+        public string Periapsis { get; set; }
+        public string OrbEcc { get; set; }
+        public string OrbInc { get; set; }
+        public string ArgOfPeri { get; set; }
+        public string LongOfAscendNode { get; set; }
+        public string MeanAnomoaly { get; set; }
         public string EquatRad { get; set; }
         public string EquatCirc { get; set; }
         public string SurfaceArea { get; set; }
