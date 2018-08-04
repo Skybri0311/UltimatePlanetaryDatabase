@@ -7,5 +7,9 @@ namespace UltimatePlanetaryDatabase.Models
 {
     public class KerMoon
     {
+        public string ParentBody { get; set; }
+
+
+
     }
 }
