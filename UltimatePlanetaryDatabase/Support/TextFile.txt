@@ -1,0 +1,41 @@
+﻿GitHUB
+BJ's GiyHub Username : Skybri0311
+Dads Gihub Username : brianfiedler
+
+Repo address : https://github.com/brianfiedler/AutoRepairApp.git
+
+CREATE A NEW BRANCH
+open command prompt and navigate to the project
+example: here is what I use for my machine...
+	cd c:\Development\Git\WebApplication1 - Copy
+
+Always check the status of the branch
+1. git status
+
+check to see what branch you are on
+2. git branch
+
+if you are on master or develop, add and commit any changes
+3. git add .
+4. git commit -m "note on what you are changing"
+
+create new branch
+5. git checkout -b myNewBranchName
+
+
+
+ADDING A NEW MIGRATION
+1. Open Package Manager Console
+2. add-migration newMigrationName
+3. update-database
+
+
+Adding a Repostery
+in command prompt
+1. change directory with " cd " and find the location of the project ifles in project> view in file explorer
+2. to initialize " git init"
+3. to add the repostery " git add . "
+4. to commit "git commit -m "comment"
+5. set the remote " git remote -v "
+6. to push the changes in your local repostery to github " git push origin master"
+7. to find remote address 'git remote -v'
