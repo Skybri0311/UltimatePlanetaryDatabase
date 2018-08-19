@@ -1,13 +1,13 @@
 ﻿GitHUB
-BJ's GiyHub Username : Skybri0311
-Dads Gihub Username : brianfiedler
+BJ's GitHub Username : Skybri0311
+Dads Github Username : brianfiedler
 
-Repo address : https://github.com/brianfiedler/AutoRepairApp.git
+Repo address : https://github.com/Skybri0311/UltimatePlanetaryDatabase.git
 
 CREATE A NEW BRANCH
 open command prompt and navigate to the project
 example: here is what I use for my machine...
-	cd c:\Development\Git\WebApplication1 - Copy
+	cd C:\Development\Git\UltimatePlanetaryDatabase
 
 Always check the status of the branch
 1. git status
@@ -22,13 +22,14 @@ if you are on master or develop, add and commit any changes
 create new branch
 5. git checkout -b myNewBranchName
 
-
+------------------------------------------------------------------------------------------------------------------------------
 
 ADDING A NEW MIGRATION
 1. Open Package Manager Console
 2. add-migration newMigrationName
 3. update-database
 
+------------------------------------------------------------------------------------------------------------------------------
 
 Adding a Repostery
 in command prompt
@@ -40,3 +41,24 @@ in command prompt
 6. to push the changes in your local repostery to github " git push origin master"
 7. to find remote address 'git remote -v'
 8. make sure the remote path is set in Visual Studio
+9. to link an existing repository " git clone " then put in the url from github at the end 
+
+------------------------------------------------------------------------------------------------------------------------------
+EXAMPLE GIT CLONE
+
+Microsoft Windows [Version 10.0.17134.228]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\bfied> cd C:\Development\Git
+
+C:\Development\Git> git clone https://github.com/Skybri0311/UltimatePlanetaryDatabase.git
+Cloning into 'UltimatePlanetaryDatabase'...
+remote: Counting objects: 102, done.
+remote: Compressing objects: 100% (55/55), done.
+remote: Total 102 (delta 29), reused 99 (delta 27), pack-reused 0
+Receiving objects: 100% (102/102), 659.11 KiB | 2.53 MiB/s, done.
+Resolving deltas: 100% (29/29), done.
+
+C:\Development\Git>
+------------------------------------------------------------------------------------------------------------------------------
+

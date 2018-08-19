@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace UltimatePlanetaryDatabase.Models
 {
-    public class GalPlanet
+    public class GalPlanet : KerPlanet
     {
     }
 }

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace UltimatePlanetaryDatabase.Models
 {
-    public class SolMoon
+    public class SolMoon : KerMoon
     {
     }
 }

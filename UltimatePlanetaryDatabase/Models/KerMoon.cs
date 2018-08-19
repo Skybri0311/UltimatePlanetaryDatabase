@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace UltimatePlanetaryDatabase.Models
 {
-    public class KerMoon
+    public class KerMoon : KerPlanet
     {
         public string ParentBody { get; set; }
 
