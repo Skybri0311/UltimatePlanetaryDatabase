@@ -7,5 +7,6 @@ namespace UltimatePlanetaryDatabase.Models
 {
     public class SearchFilter
     {
+        public int Id { get; set; }
     }
 }

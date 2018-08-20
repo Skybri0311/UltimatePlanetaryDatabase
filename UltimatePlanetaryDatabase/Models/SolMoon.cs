@@ -7,5 +7,6 @@ namespace UltimatePlanetaryDatabase.Models
 {
     public class SolMoon : KerMoon
     {
+        public int Id { get; set; }
     }
 }

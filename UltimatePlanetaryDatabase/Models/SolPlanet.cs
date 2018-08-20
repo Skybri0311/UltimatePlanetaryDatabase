@@ -7,5 +7,6 @@ namespace UltimatePlanetaryDatabase.Models
 {
     public class SolPlanet : KerPlanet
     {
+        public int Id { get; set; }
     }
 }
